@@ -1,5 +1,5 @@
 [project]
-site_url = "https://mitwilsch.dev""
+site_url = "https://mitwilsch.dev"
 site_name = "Mitchell Schooler"
 site_description = "Mitchell Schooler"
 site_author = "Mitchell Schooler"
@@ -12,7 +12,7 @@ copyright = "Copyright &copy; 2026 Mitchell Schooler"
 
 nav = [
   { "Home" = "index.md" },
-  { "About" = "about.md" },
+  { "Projects" = "projects.md" },
 ]
 
 # extra_css = ["stylesheets/extra.css"]
